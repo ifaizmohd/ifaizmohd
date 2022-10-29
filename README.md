@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ifaizmohd
+- 👋 Hi, I’m Faiz Mohd ~ @ifaizmohd
 - 👀 I’m interested in Web technologies.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Web-Apps
