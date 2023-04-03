@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faiz Mohd ~ @ifaizmohd
 - 👀 I’m interested in Web technologies.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on Web-Apps
 - 📫 How to reach me - drop a mail to faiz.mohd778@gmail.com
 
